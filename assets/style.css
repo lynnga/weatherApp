@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(17, 0, 255) , rgb(202, 33, 117));
+    font-size: 60px;
+    color: white;
+}
+label{
+    font-size: 25px;
+    font-weight: 300;
+}
+.form-control{
+    width: 80%;
+}
+.card {
+    display: table-cell;
+}
+
+.future-weather {
+    display: inline-flex;
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.future-weather div {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.search-history {
+    display: grid;
+}
+
+.search-history button {
+    margin: 5px;
+}
