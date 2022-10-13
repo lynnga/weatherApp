@@ -6,9 +6,8 @@ Languages:
 Built With What languages used: HTML, CSS and JaveScript and bootstrap.
 
 Website:
-Deploy application link Git hub url = https://github.com/lynnga/weather-forecastwebsite
-
-Deployed application:https://lynnga.github.io/weather-forecast/
+Deploy application link Git hub url = https://github.com/lynnga/weatherApp
+Deployed application: https://lynnga.github.io/weatherApp/
 
 Contact:
 additonal information: Email me at lingamliel@gmail.com
